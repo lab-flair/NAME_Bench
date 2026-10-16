@@ -1,4 +1,10 @@
-# Non-assertive object mentions in VLM captions: data release
+# NAME-Bench: Non-Assertive Mention Evaluation Benchmark
+
+Data release for the paper **Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models**.
+
+**Authors:** Hsin-Ling Hsu\*, Neeraja Kirtane\*, Kuan-Hao Huang
+
+---
 
 Object mentions from the image captions of five vision-language models, each labelled as **concrete** (the caption
 asserts the object and it is in the image), **hallucinated** (the caption asserts the object and it is not in the
