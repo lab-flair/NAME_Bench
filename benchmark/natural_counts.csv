@@ -1,0 +1,6 @@
+model,captions,mentions,concrete,hallucinated,not_a_mention,excluded_orange,non-assertive,ambiguous
+LLaVA-1.5-7B,106572,355761,200829,75825,73771,2589,2582,165
+Qwen2.5-VL-7B,1930,4129,3190,226,337,175,181,20
+Qwen2.5-VL-3B,1937,4207,3212,315,344,138,179,19
+InternVL3-8B,1955,4626,3642,275,339,171,173,26
+LLaVA-OneVision-2-8B,1893,3710,2958,180,296,116,144,16

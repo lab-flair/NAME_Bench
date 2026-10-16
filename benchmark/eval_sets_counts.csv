@@ -1,0 +1,6 @@
+model,concrete,hallucinated,non-assertive,na_purpose,na_hedged,na_depictive,na_negation
+LLaVA-1.5-7B,1975,1974,1594,630,564,265,135
+Qwen2.5-VL-7B,1878,1983,1866,182,958,642,84
+Qwen2.5-VL-3B,1891,1979,1745,211,802,516,216
+InternVL3-8B,1947,1321,678,43,198,307,130
+LLaVA-OneVision-2-8B,1919,1433,1314,172,561,450,131
