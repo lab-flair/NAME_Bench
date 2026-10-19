@@ -1,8 +1,11 @@
 # NAME-Bench: Non-Assertive Mention Evaluation Benchmark
 
-Data release for the paper **Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models**.
+[![arXiv](https://img.shields.io/badge/arXiv-2610.23610-b31b1b.svg)](https://arxiv.org/abs/2610.23610)
+
+Data release for the paper **[Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models](https://arxiv.org/pdf/2610.23610)**.
 
 **Authors:** Hsin-Ling Hsu\*, Neeraja Kirtane\*, Kuan-Hao Huang
+<sub>\* Equal contribution</sub>
 
 ---
 
@@ -91,4 +94,13 @@ not_a_mention or excluded_orange; for non-assertive mentions `category` is one o
 | InternVL3-8B | 1,955 | 4,626 |
 | LLaVA-OneVision-2-8B | 1,893 | 3,710 |
 
+## Citation
 
+```bibtex
+@article{hsu2026namebench,
+  title   = {Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models},
+  author  = {Hsu, Hsin-Ling and Kirtane, Neeraja and Huang, Kuan-Hao},
+  journal = {arXiv preprint arXiv:2610.23610},
+  year    = {2026}
+}
+```
