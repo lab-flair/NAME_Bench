@@ -96,6 +96,8 @@ not_a_mention or excluded_orange; for non-assertive mentions `category` is one o
 
 ## Citation
 
+If you find this work useful, please cite:
+
 ```bibtex
 @article{hsu2026namebench,
   title   = {Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models},
